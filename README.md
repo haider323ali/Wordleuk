@@ -1,0 +1,1 @@
+<a href="https://wordleuk.cc/">Wordle UK</a> is a thrilling word puzzle game tailored for players in the United Kingdom. In this version of the popular game, players must guess a five-letter word within six attempts.
